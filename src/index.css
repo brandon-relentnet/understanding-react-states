@@ -1,116 +1,238 @@
 :root {
   /* Latte Palette */
   --latte-rosewater: #dc8a78;
+  /* Link hover */
   --latte-flamingo: #dd7878;
+  /* Button active */
   --latte-pink: #ea76cb;
+  /* Highlight */
   --latte-mauve: #8839ef;
+  /* Focus outline */
   --latte-red: #d20f39;
+  /* Error messages */
   --latte-maroon: #e64553;
+  /* Alerts */
   --latte-peach: #fe640b;
+  /* Warnings */
   --latte-yellow: #df8e1d;
+  /* Notices */
   --latte-green: #40a02b;
+  /* Success messages */
   --latte-teal: #179299;
+  /* Info messages */
   --latte-sky: #04a5e5;
+  /* Links */
   --latte-sapphire: #209fb5;
+  /* Secondary buttons */
   --latte-blue: #1e66f5;
+  /* Primary buttons */
   --latte-lavender: #7287fd;
+  /* Quotes */
   --latte-text: #4c4f69;
+  /* Body text */
   --latte-subtext1: #5c5f77;
+  /* Secondary text */
   --latte-subtext0: #6c6f85;
+  /* Tertiary text */
   --latte-overlay2: #7c7f93;
+  /* Disabled text */
   --latte-overlay1: #8c8fa1;
+  /* Placeholder text */
   --latte-overlay0: #9ca0b0;
+  /* Input border */
   --latte-surface2: #acb0be;
+  /* Card borders */
   --latte-surface1: #bcc0cc;
+  /* Modal backgrounds */
   --latte-surface0: #ccd0da;
+  /* Light backgrounds */
   --latte-base: #eff1f5;
+  /* Page background */
   --latte-mantle: #e6e9ef;
+  /* Header background */
   --latte-crust: #dce0e8;
+  /* Footer background */
 
   /* Frappé Palette */
   --frappe-rosewater: #f2d5cf;
+  /* Link hover */
   --frappe-flamingo: #eebebe;
+  /* Button active */
   --frappe-pink: #f4b8e4;
+  /* Highlight */
   --frappe-mauve: #ca9ee6;
+  /* Focus outline */
   --frappe-red: #e78284;
+  /* Error messages */
   --frappe-maroon: #ea999c;
+  /* Alerts */
   --frappe-peach: #ef9f76;
+  /* Warnings */
   --frappe-yellow: #e5c890;
+  /* Notices */
   --frappe-green: #a6d189;
+  /* Success messages */
   --frappe-teal: #81c8be;
+  /* Info messages */
   --frappe-sky: #99d1db;
+  /* Links */
   --frappe-sapphire: #85c1dc;
+  /* Secondary buttons */
   --frappe-blue: #8caaee;
+  /* Primary buttons */
   --frappe-lavender: #babbf1;
+  /* Quotes */
   --frappe-text: #c6d0f5;
+  /* Body text */
   --frappe-subtext1: #b5bfe2;
+  /* Secondary text */
   --frappe-subtext0: #a5adce;
+  /* Tertiary text */
   --frappe-overlay2: #949cbb;
+  /* Disabled text */
   --frappe-overlay1: #838ba7;
+  /* Placeholder text */
   --frappe-overlay0: #737994;
+  /* Input border */
   --frappe-surface2: #626880;
+  /* Card borders */
   --frappe-surface1: #51576d;
+  /* Modal backgrounds */
   --frappe-surface0: #414559;
+  /* Light backgrounds */
   --frappe-base: #303446;
+  /* Page background */
   --frappe-mantle: #292c3c;
+  /* Header background */
   --frappe-crust: #232634;
+  /* Footer background */
 
   /* Macchiato Palette */
   --macchiato-rosewater: #f4dbd6;
+  /* Link hover */
   --macchiato-flamingo: #f0c6c6;
+  /* Button active */
   --macchiato-pink: #f5bde6;
+  /* Highlight */
   --macchiato-mauve: #c6a0f6;
+  /* Focus outline */
   --macchiato-red: #ed8796;
+  /* Error messages */
   --macchiato-maroon: #ee99a0;
+  /* Alerts */
   --macchiato-peach: #f5a97f;
+  /* Warnings */
   --macchiato-yellow: #eed49f;
+  /* Notices */
   --macchiato-green: #a6da95;
+  /* Success messages */
   --macchiato-teal: #8bd5ca;
+  /* Info messages */
   --macchiato-sky: #91d7e3;
+  /* Links */
   --macchiato-sapphire: #7dc4e4;
+  /* Secondary buttons */
   --macchiato-blue: #8aadf4;
+  /* Primary buttons */
   --macchiato-lavender: #b7bdf8;
+  /* Quotes */
   --macchiato-text: #cad3f5;
+  /* Body text */
   --macchiato-subtext1: #b8c0e0;
+  /* Secondary text */
   --macchiato-subtext0: #a5adcb;
+  /* Tertiary text */
   --macchiato-overlay2: #939ab7;
+  /* Disabled text */
   --macchiato-overlay1: #8087a2;
+  /* Placeholder text */
   --macchiato-overlay0: #6e738d;
+  /* Input border */
   --macchiato-surface2: #5b6078;
+  /* Card borders */
   --macchiato-surface1: #494d64;
+  /* Modal backgrounds */
   --macchiato-surface0: #363a4f;
+  /* Light backgrounds */
   --macchiato-base: #24273a;
+  /* Page background */
   --macchiato-mantle: #1e2030;
+  /* Header background */
   --macchiato-crust: #181926;
+  /* Footer background */
 
   /* Mocha Palette */
   --mocha-rosewater: #f5e0dc;
+  /* Link hover */
   --mocha-flamingo: #f2cdcd;
+  /* Button active */
   --mocha-pink: #f5c2e7;
+  /* Highlight */
   --mocha-mauve: #cba6f7;
+  /* Focus outline */
   --mocha-red: #f38ba8;
+  /* Error messages */
   --mocha-maroon: #eba0ac;
+  /* Alerts */
   --mocha-peach: #fab387;
+  /* Warnings */
   --mocha-yellow: #f9e2af;
+  /* Notices */
   --mocha-green: #a6e3a1;
+  /* Success messages */
   --mocha-teal: #94e2d5;
+  /* Info messages */
   --mocha-sky: #89dceb;
+  /* Links */
   --mocha-sapphire: #74c7ec;
+  /* Secondary buttons */
   --mocha-blue: #89b4fa;
+  /* Primary buttons */
   --mocha-lavender: #b4befe;
+  /* Quotes */
   --mocha-text: #cdd6f4;
+  /* Body text */
   --mocha-subtext1: #bac2de;
+  /* Secondary text */
   --mocha-subtext0: #a6adc8;
+  /* Tertiary text */
   --mocha-overlay2: #9399b2;
+  /* Disabled text */
   --mocha-overlay1: #7f849c;
+  /* Placeholder text */
   --mocha-overlay0: #6c7086;
+  /* Input border */
   --mocha-surface2: #585b70;
+  /* Card borders */
   --mocha-surface1: #45475a;
+  /* Modal backgrounds */
   --mocha-surface0: #313244;
+  /* Light backgrounds */
   --mocha-base: #1e1e2e;
+  /* Page background */
   --mocha-mantle: #181825;
+  /* Header background */
   --mocha-crust: #11111b;
+  /* Footer background */
+
+  --background-base: var(--latte-base);
+  --text-base: var(--latte-text);
+  --button-background-base: var(--latte-surface1);
+  --button-hover-base: var(--latte-teal);
+  --button-border-hover-base: var(--latte-red);
+  --link-base: var(--latte-sky);
+  --link-hover-base: var(--latte-rosewater);
+  --card-background-base: var(--latte-surface0);
+  --card-border-base: var(--latte-surface2);
+  --modal-background-base: var(--latte-surface1);
+  --header-background-base: var(--latte-mantle);
+  --footer-background-base: var(--latte-crust);
+  --error-base: var(--latte-red);
+  --warning-base: var(--latte-peach);
+  --success-base: var(--latte-green);
+  --info-base: var(--latte-teal);
 }
+
 
 body {
   margin: 0;
@@ -128,43 +250,45 @@ code {
 
 .App {
   width: 640px;
-  background-color: var(--mocha-base);
   padding: 10px;
-  color: var(--mocha-text);
   transition: background-color 0.3s ease, color 0.3s ease;
+  background-color: var(--background-base);
+}
+
+.counter {
+  background-color: var(--background-base);
+  color: var(--text-base);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid var(--card-border-base);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 10px;
 }
 
 button {
-  background-color: var(--mocha-surface1);
-  border: 1px solid var(--mocha-surface1);
-  padding: 10px;
-  margin: 10px;
+  background-color: var(--button-background-base);
+  color: var(--text-base);
+  border: 1px solid transparent;
+  padding: 10px 20px;
+  margin: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 button:hover {
-  background-color: var(--mocha-surface2);
-  border: 1px solid var(--mocha-pink);
+  background-color: var(--button-hover-base);
 }
 
-.palette-button:hover {
-  transform: scale(1.05);
+.palette-dropdown select {
+  padding: 10px;
+  border: 0px;
+  background-color: var(--button-background-base);
+  color: var(--text-base);
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.palette-button.latte {
-  background-color: var(--latte-button-background);
+.palette-dropdown select:hover .palette-dropdown select::-ms-expand {
+  background-color: var(--button-hover-base);
 }
-
-.palette-button.frappe {
-  background-color: var(--frappe-button-background);
-}
-
-.palette-button.macchiato {
-  background-color: var(--macchiato-button-background);
-}
-
-.palette-button.mocha {
-  background-color: var(--mocha-button-background);
-}
-

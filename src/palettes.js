@@ -1,28 +1,74 @@
-// src/palettes.js
 export const palettes = {
     latte: {
-      background: 'var(--latte-base)',
-      text: 'var(--latte-text)',
-      buttonBackground: 'var(--latte-green)',
-      buttonHover: 'var(--latte-teal)'
+        background: 'var(--latte-base)',
+        text: 'var(--latte-text)',
+        buttonBackground: 'var(--latte-surface1)',
+        buttonHover: 'var(--latte-surface2)',
+        buttonBorderHover: 'var(--latte-red)',
+        link: 'var(--latte-sky)',
+        linkHover: 'var(--latte-rosewater)',
+        cardBackground: 'var(--latte-surface0)',
+        cardBorder: 'var(--latte-surface2)',
+        modalBackground: 'var(--latte-surface1)',
+        headerBackground: 'var(--latte-mantle)',
+        footerBackground: 'var(--latte-crust)',
+        error: 'var(--latte-red)',
+        warning: 'var(--latte-peach)',
+        success: 'var(--latte-green)',
+        info: 'var(--latte-teal)'
     },
     frappe: {
-      background: 'var(--frappe-base)',
-      text: 'var(--frappe-text)',
-      buttonBackground: 'var(--frappe-green)',
-      buttonHover: 'var(--frappe-teal)'
+        background: 'var(--frappe-crust)',
+        text: 'var(--frappe-text)',
+        buttonBackground: 'var(--frappe-surface1)',
+        buttonHover: 'var(--frappe-surface2)',
+        buttonBorderHover: 'var(--frappe-red)',
+        link: 'var(--frappe-sky)',
+        linkHover: 'var(--frappe-rosewater)',
+        cardBackground: 'var(--frappe-surface0)',
+        cardBorder: 'var(--frappe-surface2)',
+        modalBackground: 'var(--frappe-surface1)',
+        headerBackground: 'var(--frappe-mantle)',
+        footerBackground: 'var(--frappe-crust)',
+        error: 'var(--frappe-red)',
+        warning: 'var(--frappe-peach)',
+        success: 'var(--frappe-green)',
+        info: 'var(--frappe-teal)'
     },
     macchiato: {
-      background: 'var(--macchiato-base)',
-      text: 'var(--macchiato-text)',
-      buttonBackground: 'var(--macchiato-green)',
-      buttonHover: 'var(--macchiato-teal)'
+        background: 'var(--macchiato-base)',
+        text: 'var(--macchiato-text)',
+        buttonBackground: 'var(--macchiato-surface1)',
+        buttonHover: 'var(--macchiato-surface2)',
+        buttonBorderHover: 'var(--macchiato-red)',
+        link: 'var(--macchiato-sky)',
+        linkHover: 'var(--macchiato-rosewater)',
+        cardBackground: 'var(--macchiato-surface0)',
+        cardBorder: 'var(--macchiato-surface2)',
+        modalBackground: 'var(--macchiato-surface1)',
+        headerBackground: 'var(--macchiato-mantle)',
+        footerBackground: 'var(--macchiato-crust)',
+        error: 'var(--macchiato-red)',
+        warning: 'var(--macchiato-peach)',
+        success: 'var(--macchiato-green)',
+        info: 'var(--macchiato-teal)'
     },
     mocha: {
-      background: 'var(--mocha-base)',
-      text: 'var(--mocha-text)',
-      buttonBackground: 'var(--mocha-green)',
-      buttonHover: 'var(--mocha-teal)'
+        background: 'var(--mocha-base)',
+        text: 'var(--mocha-text)',
+        buttonBackground: 'var(--mocha-surface1)',
+        buttonHover: 'var(--mocha-surface2)',
+        buttonBorderHover: 'var(--mocha-red)',
+        link: 'var(--mocha-sky)',
+        linkHover: 'var(--mocha-rosewater)',
+        cardBackground: 'var(--mocha-surface0)',
+        cardBorder: 'var(--mocha-surface2)',
+        modalBackground: 'var(--mocha-surface1)',
+        headerBackground: 'var(--mocha-mantle)',
+        footerBackground: 'var(--mocha-crust)',
+        error: 'var(--mocha-red)',
+        warning: 'var(--mocha-peach)',
+        success: 'var(--mocha-green)',
+        info: 'var(--mocha-teal)'
     }
-  };
-  
+};

@@ -1,11 +1,11 @@
 import Counter from './components/Counter';
 import React from 'react';
-import Palette from './components/Palette.js';
+import PaletteDropdown from './components/PaletteDropdown.js';
 
 function App() {
   return (
-    <div className="App" style={{ backgroundColor: 'var(--background)', color: 'var(--text)' }}>
-      <Palette />
+    <div className="App">
+      <PaletteDropdown />
       <Counter />
     </div>
   );
